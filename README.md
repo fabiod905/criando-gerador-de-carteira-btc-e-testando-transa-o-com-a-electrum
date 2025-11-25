@@ -1,2 +1,2 @@
-# criando-gerador-de-carteira-btc-e-testando-transa-o-com-a-electrum
+# criando-gerador-de-carteira-btc-e-testando-transção-com-a-electrum
 Desafio do bootcamp de blockchain da DIO com o prof. Cassiano Peres consistindo em usar métodos em JS relacionados aos BIP (Bitcoin Improvements Proposal) a fim de criar um gerador de carteira no VS Code. Posteriormente criamos uma carteira no gerenciador e carteiras Electrum, alteramos para o modo testnet e realizamos transações com BTC faucets.
